@@ -12,7 +12,7 @@ from . import *
 
 REPOMSG = (
     "• **ULTROID USERBOT** •\n\n",
-    "• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)\n",
+    "• Repo - [Click Here](https://github.com/DrazzDan/Ultroid-ub)\n",
     "• Support - @UltroidSupport",
 )
 
